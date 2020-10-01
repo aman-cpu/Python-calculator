@@ -6,7 +6,7 @@ root = Tk()
 
 
 root.geometry("350x480")
-
+root.title("Calculator using python")
 
 displayvar = StringVar()
 displayvar.set("")
